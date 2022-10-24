@@ -13,3 +13,4 @@ A few resources to get you started if this is your first Flutter project:
 
 ![](https://raw.githubusercontent.com/CRIPXU/inicio-Vertical/main/Screenshot_4.png)
 ![](https://raw.githubusercontent.com/CRIPXU/inicio-Vertical/main/Screenshot_5.png)
+![](https://raw.githubusercontent.com/CRIPXU/inicio-Vertical/main/Screenshot_6.png)
